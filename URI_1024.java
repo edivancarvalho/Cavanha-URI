@@ -1,9 +1,9 @@
 /*
-╔════════════════════╗
-║ Rodrigo CavanhaMan ║
-║        IFTM        ║
-║      URI 1024      ║
-╚════════════════════╝
++--------------------+
+| Rodrigo CavanhaMan |
+|        IFTM        |
+|      URI 1024      |
++--------------------+
 */
 import java.util.Locale;
 import java.util.Scanner;
