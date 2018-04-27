@@ -1,11 +1,11 @@
 /*
 display the customers name and order number
 for customers who placed orders in the first half of 2016.
-+--------------------+
-| Rodrigo CavanhaMan |
-|      URI 2622      |
-| Pessoas Jurídicas  |
-+--------------------+
+
+Rodrigo CavanhaMan
+URI 2620
+Pedidos no Primeiro Semestre
+
 */
 select c.name, o.id
 from customers c inner join orders o on c.id = o.id_customers
